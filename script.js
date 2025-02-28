@@ -11,7 +11,7 @@ btn.addEventListener('click',()=>{
 })
 
 function updateUi(num){
-	output.innerHTML=`Result: ${num}`
+	output.innerHTML=`Final Result: ${num}`
 	
 }
 
